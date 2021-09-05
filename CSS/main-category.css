@@ -1,0 +1,14 @@
+.main-category-cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    padding: 10px 5px;
+    justify-items: center;
+    justify-content: space-between;
+}
+.main-category-card img{
+    width: 330px;
+}
